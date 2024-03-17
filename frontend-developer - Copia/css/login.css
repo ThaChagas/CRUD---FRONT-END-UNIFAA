@@ -1,0 +1,62 @@
+.caixa-login {
+    width: 300px;
+    margin: auto;
+    border: 2px solid #ddd;
+    margin-top: 70px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.titulo-login {
+    text-align: center;
+    color: #701198;
+    font-size: 26px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.grupo {
+    margin-top: 15px;
+}
+
+.esqueci-minha-senha a {
+    color: #701198;
+    font-size: 14px;
+    font-weight: 900;
+
+}
+
+.esqueci-minha-senha {
+    text-align: right;
+    font-style: normal;
+    margin-top: 3px;
+}
+
+
+label {
+    font-size: 16px;
+}
+
+input,#btn-entrar {
+    width: 100%;
+    padding: 8px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+}
+
+#btn-entrar{
+    margin-top: 10px;
+    background-color: #701198;
+    border: none;
+    color: #fff;
+    font-weight: 600;
+}
+
+#btn-entrar:hover {
+    background-color: #8526ad;
+    cursor: pointer;
+}
+
+#loading{
+    display: none;
+}
